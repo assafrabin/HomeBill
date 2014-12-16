@@ -1,0 +1,29 @@
+﻿<Window x:Class="BillsProject.TrackWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="HomeBill - How has no one ever thought about it?!" Height="350" Width="525">
+    <Grid Margin="0,-25,0,0">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF3BFD93" Offset="0.197"/>
+                <GradientStop Color="#FFBEF9E4" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <ListBox x:Name="lbFilesSelect" Height="223" VerticalAlignment="Top" ItemsSource="{Binding BillsToPay}" MaxWidth="1000" HorizontalAlignment="Left" Width="213" BorderThickness="1.5" Margin="10,81,0,0" BorderBrush="White">
+            <ListBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF50FF9F" Offset="0.192"/>
+                    <GradientStop Color="#FFBEF9E4" Offset="1"/>
+                </LinearGradientBrush>
+            </ListBox.Background>
+            <ListBox.ItemTemplate>
+                <HierarchicalDataTemplate>
+                    <CheckBox Content="{Binding Name}" IsChecked="{Binding IsChecked}"/>
+                </HierarchicalDataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <TextBlock HorizontalAlignment="Left" Height="24" Margin="10,57,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="131"><Run FontWeight="Bold" Text="Bills To Pay:" TextDecorations="Underline"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="81" Margin="352,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136"><Run Text="User details:" TextDecorations="Underline"/><LineBreak/><Run Text="Bill Gates"/><LineBreak/><Run Text="Bill_Gates@gmail.com"/></TextBlock>
+        <Button x:Name="b_track" Content="Track Bills Now!" HorizontalAlignment="Left" Margin="303,249,0,0" VerticalAlignment="Top" Width="159" Height="28" Click="b_track_Click" Background="#FFF7B70D"/>
+    </Grid>
+</Window>

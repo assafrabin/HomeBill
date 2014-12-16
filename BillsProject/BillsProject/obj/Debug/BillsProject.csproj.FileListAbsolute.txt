@@ -1,0 +1,57 @@
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\bin\Debug\BillsProject.exe.config
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\bin\Debug\BillsProject.exe
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\bin\Debug\BillsProject.pdb
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\obj\Debug\BillsProject.csprojResolveAssemblyReference.cache
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\obj\Debug\MainWindow.baml
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\obj\Debug\MainWindow.g.cs
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\obj\Debug\App.g.cs
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\obj\Debug\BillsProject_MarkupCompile.cache
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\obj\Debug\BillsProject.g.resources
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\obj\Debug\BillsProject.Properties.Resources.resources
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\obj\Debug\BillsProject.csproj.GenerateResource.Cache
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\obj\Debug\BillsProject.exe
+c:\users\chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\obj\Debug\BillsProject.pdb
+C:\Users\Chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\obj\Debug\Window1.baml
+C:\Users\Chen\documents\visual studio 2013\Projects\BillsProject\BillsProject\obj\Debug\Window1.g.cs
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\bin\Debug\BillsProject.exe.config
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject.exe
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject.pdb
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject.csprojResolveAssemblyReference.cache
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\MainWindow.baml
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\MainWindow.g.cs
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\App.g.cs
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject_MarkupCompile.cache
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject.g.resources
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject.Properties.Resources.resources
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject.csproj.GenerateResource.Cache
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\bin\Debug\BillsProject.exe
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\bin\Debug\BillsProject.pdb
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\PayBillWindow.baml
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\PayBillWindow.g.cs
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\SettingsWindow.baml
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\SettingsWindow.g.cs
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\bin\Debug\BillsProject.exe.config
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject.exe
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject.pdb
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject.csprojResolveAssemblyReference.cache
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\App.g.cs
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject_MarkupCompile.cache
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject.g.resources
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject.Properties.Resources.resources
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\BillsProject.csproj.GenerateResource.Cache
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\bin\Debug\BillsProject.exe
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\bin\Debug\BillsProject.pdb
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\RegisterWindow.baml
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\TrackWindow.baml
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\RegisterWindow.g.cs
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\TrackWindow.g.cs
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\PayBillWindow.baml
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\MainWindow.baml
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\RegisterWindow.baml
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\SettingsWindow.baml
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\TrackWindow.baml
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\PayBillWindow.g.cs
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\RegisterWindow.g.cs
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\SettingsWindow.g.cs
+C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\TrackWindow.g.cs

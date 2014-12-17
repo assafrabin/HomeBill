@@ -29,7 +29,7 @@ namespace BillsProject
             if (CheckForMissingFields() || DB_API.IsUserExist(tb_userName.Text))
                 return;
 
-            if (tb_password.Password != tb_confirmPassword.Password)
+            if (tb_password.Password != tb_confirmPassword.Password || tb_password.Password.Length < 6)
             {
                 tb_confirmPassword.Password = "";
                 tb_password.Password = "";
@@ -80,16 +80,31 @@ namespace BillsProject
 
         private void tb_Password_PasswordChanged(object sender, RoutedEventArgs e)
         {
-            if (tb_password.Password.Length > 0 && tb_confirmPassword.Password.Length > 0)
+            if (tb_password.Password.Length > 0 && tb_confirmPassword.Password.Length > 0) // Passwords are empty
             {
-                if (tb_password.Password != tb_confirmPassword.Password)
+                if (tb_password.Password.Length < 6 && tb_confirmPassword.Password.Length < 6) // Passwords are shorter than 6 characters
                 {
-                    tbl_passwordUnmatch.Visibility = System.Windows.Visibility.Visible;
+                    tbl_passwordShort.Visibility = System.Windows.Visibility.Visible;
+                    tbl_passwordUnmatch.Visibility = System.Windows.Visibility.Hidden;
                 }
                 else
                 {
-                    tbl_passwordUnmatch.Visibility = System.Windows.Visibility.Hidden;
+                    tbl_passwordShort.Visibility = System.Windows.Visibility.Hidden;
+
+                    if (tb_password.Password != tb_confirmPassword.Password) // Passwords are not equal
+                    {
+                        tbl_passwordUnmatch.Visibility = System.Windows.Visibility.Visible;
+                    }
+                    else
+                    {
+                        tbl_passwordUnmatch.Visibility = System.Windows.Visibility.Hidden;
+                    }
                 }
+            }
+            else
+            {
+                tbl_passwordUnmatch.Visibility = System.Windows.Visibility.Hidden;
+                tbl_passwordShort.Visibility = System.Windows.Visibility.Hidden;
             }
         }
     }

@@ -37,6 +37,11 @@
                 <TextEffect Foreground="Red" PositionCount="50"/>
             </TextBlock.TextEffects>
         </TextBlock>
+        <TextBlock x:Name="tbl_passwordShort" HorizontalAlignment="Left" Margin="28,247,0,0" TextWrapping="Wrap" Text="Password must be at least 6 characters" VerticalAlignment="Top" RenderTransformOrigin="-3.96,-6.875" Width="165" FontStyle="Italic" TextAlignment="Right" FontFamily="Sitka Heading" Visibility="Hidden">
+            <TextBlock.TextEffects>
+                <TextEffect Foreground="Red" PositionCount="50"/>
+            </TextBlock.TextEffects>
+        </TextBlock>
         <TextBlock x:Name="tbl_missingFields" HorizontalAlignment="Left" Margin="284,231,0,0" TextWrapping="Wrap" Text="Some fields are missing" VerticalAlignment="Top" RenderTransformOrigin="-3.96,-6.875" Width="119" FontStyle="Italic" TextAlignment="Right" FontFamily="Sitka Heading" Visibility="Hidden">
             <TextBlock.TextEffects>
                 <TextEffect Foreground="Red" PositionCount="50"/>

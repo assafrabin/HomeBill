@@ -55,3 +55,13 @@ C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\MainW
 C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\RegisterWindow.g.cs
 C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\SettingsWindow.g.cs
 C:\Users\arabinow\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\TrackWindow.g.cs
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\PayBillWindow.baml
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\MainWindow.baml
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\RegisterWindow.baml
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\SettingsWindow.baml
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\TrackWindow.baml
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\PayBillWindow.g.cs
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\RegisterWindow.g.cs
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\SettingsWindow.g.cs
+C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\TrackWindow.g.cs

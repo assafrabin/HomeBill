@@ -65,3 +65,6 @@ C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\MainWindo
 C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\RegisterWindow.g.cs
 C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\SettingsWindow.g.cs
 C:\Users\Chen\Google Drive\BillsProject\BillsProject\obj\Debug\Windows\TrackWindow.g.cs
+C:\Users\arabinow\Documents\GitHub\Projects\BillsProject\BillsProject\bin\Debug\BillsProject.exe.config
+C:\Users\arabinow\Documents\GitHub\Projects\BillsProject\BillsProject\obj\Debug\BillsProject.exe
+C:\Users\arabinow\Documents\GitHub\Projects\BillsProject\BillsProject\obj\Debug\BillsProject.pdb

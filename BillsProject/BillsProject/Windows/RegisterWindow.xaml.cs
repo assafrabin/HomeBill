@@ -80,7 +80,7 @@ namespace BillsProject
 
         private void tb_Password_PasswordChanged(object sender, RoutedEventArgs e)
         {
-            if (tb_password.Password.Length > 0 && tb_confirmPassword.Password.Length > 0) // Passwords are empty
+            if (tb_password.Password.Length > 0) // Passwords are empty
             {
                 if (tb_password.Password.Length < 6 && tb_confirmPassword.Password.Length < 6) // Passwords are shorter than 6 characters
                 {
